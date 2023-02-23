@@ -49,9 +49,7 @@
     }
   ],
   "dependencies": {
-    "node-forge": "^1.0.0",
-    "@types/js-base64": "^3.3.1",
-    "ieee754": "^1.2.1"
+    "node-forge": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^7.15.0",
@@ -62,6 +60,8 @@
     "jest": "^26.6.3",
     "lint-staged": "^10.5.3",
     "node-signpdf": "^1.0.2",
-    "pdfkit": "0.10.0"
+    "pdfkit": "0.10.0",
+    "@types/js-base64": "^3.3.1",
+    "ieee754": "^1.2.1"
   }
 }
